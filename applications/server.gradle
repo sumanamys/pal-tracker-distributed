@@ -3,7 +3,6 @@ apply plugin: "io.spring.dependency-management"
 
 dependencies {
     compile project(":components:rest-support")
-
     compile "org.springframework.boot:spring-boot-starter-web"
 
     compile "com.zaxxer:HikariCP:$hikariVersion"
