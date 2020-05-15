@@ -6,7 +6,6 @@ import io.pivotal.pal.tracker.backlog.data.StoryRecord;
 import org.junit.Test;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-
 import java.util.List;
 
 import static io.pivotal.pal.tracker.backlog.StoryForm.storyFormBuilder;
